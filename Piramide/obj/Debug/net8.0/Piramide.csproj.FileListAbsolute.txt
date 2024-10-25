@@ -12,3 +12,4 @@ C:\Users\vinicius\source\repos\DesafiosCSharp\Piramide\obj\Debug\net8.0\refint\P
 C:\Users\vinicius\source\repos\DesafiosCSharp\Piramide\obj\Debug\net8.0\Piramide.pdb
 C:\Users\vinicius\source\repos\DesafiosCSharp\Piramide\obj\Debug\net8.0\Piramide.genruntimeconfig.cache
 C:\Users\vinicius\source\repos\DesafiosCSharp\Piramide\obj\Debug\net8.0\ref\Piramide.dll
+C:\Users\vinicius\source\repos\DesafiosCSharp\Piramide\obj\Debug\net8.0\Piramide.sourcelink.json

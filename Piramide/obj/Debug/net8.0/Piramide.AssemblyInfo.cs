@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Piramide")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+753133f41c7fa05f2a36259abb6cc475022dd79d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Piramide")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Piramide")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
