@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\vinicius\\source\\repos\\DesafiosCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84F0881D-E01F-44C6-8D54-B2465052D13B}|Piramide\\Piramide.csproj|c:\\users\\vinicius\\source\\repos\\desafioscsharp\\piramide\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84F0881D-E01F-44C6-8D54-B2465052D13B}|Piramide\\Piramide.csproj|solutionrelative:piramide\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{587706C5-797C-46BE-9219-AC93E5C40661}|Vertice\\Vertice.csproj|c:\\users\\vinicius\\source\\repos\\desafioscsharp\\vertice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587706C5-797C-46BE-9219-AC93E5C40661}|Vertice\\Vertice.csproj|solutionrelative:vertice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vinicius\\source\\repos\\DesafiosCSharp\\Piramide\\Program.cs",
-              "RelativeDocumentMoniker": "Piramide\\Program.cs",
-              "ToolTip": "C:\\Users\\vinicius\\source\\repos\\DesafiosCSharp\\Piramide\\Program.cs*",
-              "RelativeToolTip": "Piramide\\Program.cs*",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAcwEYAAAAcAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\vinicius\\source\\repos\\DesafiosCSharp\\Vertice\\Program.cs",
+              "RelativeDocumentMoniker": "Vertice\\Program.cs",
+              "ToolTip": "C:\\Users\\vinicius\\source\\repos\\DesafiosCSharp\\Vertice\\Program.cs*",
+              "RelativeToolTip": "Vertice\\Program.cs*",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwDcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T00:56:01.438Z",
+              "WhenOpened": "2024-10-27T23:05:13.778Z",
               "EditorCaption": ""
             }
           ]

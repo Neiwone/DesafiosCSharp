@@ -28,7 +28,7 @@ class Piramide
         {
             if (value < 1)
             {
-                throw new Exception("Erro ao tentar criar Piramide\n-> Valor para N invalido (N < 1)");
+                throw new Exception("Erro ao tentar criar Piramide\n-> Valor de N invalido (N < 1)");
             }
             else
             {
@@ -47,7 +47,7 @@ class Piramide
         for (int i = 1; i <= N; i++)
         {
             // Printa N-i espacos
-            for (int j = 0; j < N-i; j++)
+            for (int j = 0; j < N - i; j++)
             {
                 Console.Write(' ');
             }

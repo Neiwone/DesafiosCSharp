@@ -1,0 +1,15 @@
+C:\Users\vinicius\source\repos\DesafiosCSharp\Vertice\bin\Debug\net8.0\Vertice.exe
+C:\Users\vinicius\source\repos\DesafiosCSharp\Vertice\bin\Debug\net8.0\Vertice.deps.json
+C:\Users\vinicius\source\repos\DesafiosCSharp\Vertice\bin\Debug\net8.0\Vertice.runtimeconfig.json
+C:\Users\vinicius\source\repos\DesafiosCSharp\Vertice\bin\Debug\net8.0\Vertice.dll
+C:\Users\vinicius\source\repos\DesafiosCSharp\Vertice\bin\Debug\net8.0\Vertice.pdb
+C:\Users\vinicius\source\repos\DesafiosCSharp\Vertice\obj\Debug\net8.0\Vertice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius\source\repos\DesafiosCSharp\Vertice\obj\Debug\net8.0\Vertice.AssemblyInfoInputs.cache
+C:\Users\vinicius\source\repos\DesafiosCSharp\Vertice\obj\Debug\net8.0\Vertice.AssemblyInfo.cs
+C:\Users\vinicius\source\repos\DesafiosCSharp\Vertice\obj\Debug\net8.0\Vertice.csproj.CoreCompileInputs.cache
+C:\Users\vinicius\source\repos\DesafiosCSharp\Vertice\obj\Debug\net8.0\Vertice.sourcelink.json
+C:\Users\vinicius\source\repos\DesafiosCSharp\Vertice\obj\Debug\net8.0\Vertice.dll
+C:\Users\vinicius\source\repos\DesafiosCSharp\Vertice\obj\Debug\net8.0\refint\Vertice.dll
+C:\Users\vinicius\source\repos\DesafiosCSharp\Vertice\obj\Debug\net8.0\Vertice.pdb
+C:\Users\vinicius\source\repos\DesafiosCSharp\Vertice\obj\Debug\net8.0\Vertice.genruntimeconfig.cache
+C:\Users\vinicius\source\repos\DesafiosCSharp\Vertice\obj\Debug\net8.0\ref\Vertice.dll
