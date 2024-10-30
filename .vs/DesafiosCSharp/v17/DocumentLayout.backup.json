@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\vinicius\\source\\repos\\DesafiosCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{587706C5-797C-46BE-9219-AC93E5C40661}|Vertice\\Vertice.csproj|c:\\users\\vinicius\\source\\repos\\desafioscsharp\\vertice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{587706C5-797C-46BE-9219-AC93E5C40661}|Vertice\\Vertice.csproj|solutionrelative:vertice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CB46EF8-BBA6-4706-89A2-AC66B3D4B288}|Triangulo\\Triangulo.csproj|c:\\users\\vinicius\\source\\repos\\desafioscsharp\\triangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB46EF8-BBA6-4706-89A2-AC66B3D4B288}|Triangulo\\Triangulo.csproj|solutionrelative:triangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vinicius\\source\\repos\\DesafiosCSharp\\Vertice\\Program.cs",
-              "RelativeDocumentMoniker": "Vertice\\Program.cs",
-              "ToolTip": "C:\\Users\\vinicius\\source\\repos\\DesafiosCSharp\\Vertice\\Program.cs*",
-              "RelativeToolTip": "Vertice\\Program.cs*",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAwDcAAAAmAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\vinicius\\source\\repos\\DesafiosCSharp\\Triangulo\\Program.cs",
+              "RelativeDocumentMoniker": "Triangulo\\Program.cs",
+              "ToolTip": "C:\\Users\\vinicius\\source\\repos\\DesafiosCSharp\\Triangulo\\Program.cs",
+              "RelativeToolTip": "Triangulo\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAmwFMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T23:05:13.778Z",
+              "WhenOpened": "2024-10-29T20:52:38.923Z",
               "EditorCaption": ""
             }
           ]

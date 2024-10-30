@@ -1,15 +1,15 @@
-﻿class Vertice
+﻿public class Vertice
 {
-    private double x, y;
+    private double _x, _y;
     public double X 
     { 
-        get { return x; } 
-        private set { x = value; }
+        get { return _x; } 
+        private set { _x = value; }
     }
     public double Y
     {
-        get { return y; }
-        private set { y = value; }
+        get { return _y; }
+        private set { _y = value; }
     }
 
     public Vertice(double X, double Y)
@@ -44,6 +44,14 @@
         if (v.GetType() != this.GetType()) return false;
 
         return this == (Vertice) v;
+    }
+
+    public static bool CheckAlignment(Vertice A, Vertice B, Vertice C)
+    {
+        var maindiagonal = A.X * B.Y + A.Y * C.X + B.X * C.Y;
+        var antidiagonal = C.X * B.Y + C.Y * A.X + B.X * A.Y;
+
+        return (maindiagonal - antidiagonal) == 0;
     }
 
 }

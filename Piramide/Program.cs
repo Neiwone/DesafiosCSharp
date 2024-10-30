@@ -20,10 +20,10 @@
 
 class Piramide
 {
-    private int n;
+    private int _n;
     public int N
     {
-        get { return n; }
+        get { return _n; }
         set
         {
             if (value < 1)
@@ -32,14 +32,14 @@ class Piramide
             }
             else
             {
-                n = value;
+                _n = value;
             }
         }
     }
 
-    public Piramide(int _N)
+    public Piramide(int N)
     {
-        this.N = _N;
+        this.N = N;
     }
 
     public void Desenha()
